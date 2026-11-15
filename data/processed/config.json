@@ -1,0 +1,13 @@
+{
+  "features": [
+    "IRRADIATION",
+    "MODULE_TEMPERATURE",
+    "AMBIENT_TEMPERATURE",
+    "TEMP_DIFF",
+    "TOD_SIN",
+    "TOD_COS",
+    "PLANT_2"
+  ],
+  "target": "AC_POWER_AVG",
+  "n_inverters": 22
+}
